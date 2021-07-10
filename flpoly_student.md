@@ -1,27 +1,23 @@
-## First Name Last Name
+## Gage Johnson
 
-### Term Year 
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Datascience
 
-- Course 2
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Graphic Design
 
-- Thing 2
+- Game Design and Development
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Cyber security <https://floridapoly.campuslabs.com/engage/organization/cybersecurity-club>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
