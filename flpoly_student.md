@@ -18,6 +18,11 @@ I am _passionate about_:
 
 - Cyber security <https://floridapoly.campuslabs.com/engage/organization/cybersecurity-club>
 
+|**Prefix**|**Number**|*Name*|Credits|
+|----------|----------|------|-------|
+|**COP**|**2073**|*_Introduction to Data Science_*|3|
+
+
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/20
